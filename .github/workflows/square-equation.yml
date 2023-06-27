@@ -2,7 +2,7 @@ name: unit_test
 
 on:
   push:
-    branches: ["unit_test"]
+    branches: ["test_bdd"]
 
 jobs:
   build:
