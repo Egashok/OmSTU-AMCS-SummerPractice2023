@@ -1,0 +1,28 @@
+﻿﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceWar", "SpaceWar\SpaceWar.csproj", "{28EE7CB9-40B9-4146-BBEA-2EDE74D939DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceWarTests", "SpaceWarTests\SpaceWarTests.csproj", "{0EB97325-2E36-4751-AD54-04A5B2BBC557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28EE7CB9-40B9-4146-BBEA-2EDE74D939DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28EE7CB9-40B9-4146-BBEA-2EDE74D939DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28EE7CB9-40B9-4146-BBEA-2EDE74D939DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28EE7CB9-40B9-4146-BBEA-2EDE74D939DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB97325-2E36-4751-AD54-04A5B2BBC557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB97325-2E36-4751-AD54-04A5B2BBC557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB97325-2E36-4751-AD54-04A5B2BBC557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB97325-2E36-4751-AD54-04A5B2BBC557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
