@@ -67,27 +67,27 @@ public class StepDefinitions
         [Binding, Scope(Feature = "Движение при достаточном количестве топлива")]
 public class StepDefinitions2
 {
-    private double fuelAmount = double.NaN;
-    private double fuelConsumption = double.NaN;
+    private double fuelBalance = double.NaN;
+    private double fuelNeed = double.NaN;
     private Exception actualException = new Exception();
     private double actualResult = double.NaN; 
 
 	[Given(@"^космический корабль имеет топливо в объеме (.*) ед")]
     public void КоординатыКорабляВТочке(double fuelAm)
     { 
-        fuelAmount = fuelAm; 
+        fuelBalance = fuelAm; 
     }
 
     [Given(@"^имеет скорость расхода топлива при движении (.*) ед")]
     public void СкоростьКорабля(double fuelCons)
     { 
-        fuelConsumption = fuelCons;  
+        fuelNeed = fuelCons;  
     }
 
     [When(@"^происходит прямолинейное равномерное движение без деформации")]
     public void ДвижениеКорабля(){
         try{
-            actualResult = ShipFuel.fuelCalculate(fuelAmount, fuelConsumption);
+            actualResult = ShipFuel.fuelCalculate(fuelBalance, fuelNeed);
         }
         catch(Exception e){
             actualException = e;
@@ -110,7 +110,7 @@ public class StepDefinitions2
 [Binding, Scope(Feature = "Разворот")]
 public class StepDefinitions3
 {
-    private double inclination = double.NaN;
+    private double instant = double.NaN;
     private double rotationalSpeed = double.NaN;
     private double actualResult = double.NaN;
     private bool rotation = true;
@@ -119,7 +119,7 @@ public class StepDefinitions3
 	[Given(@"^космический корабль имеет угол наклона (.*) град к оси OX")]
     public void УголНаклона(double incl)
     { 
-        inclination = incl;
+        instant = incl;
     }
 
     [Given(@"^космический корабль, угол наклона которого невозможно определить")]
@@ -143,7 +143,7 @@ public class StepDefinitions3
     [When(@"^происходит вращение вокруг собственной оси")]
     public void Вращение(){
         try{
-            actualResult = ShipRotate.Rotation(inclination, rotationalSpeed, rotation);
+            actualResult = ShipRotate.Rotation(instant, rotationalSpeed, rotation);
         }
         catch(Exception e){
             actualException = e;
