@@ -1,8 +1,8 @@
-name: space_war
+name: space_war_2
 
 on:
   push:
-    branches: ["space_war"]
+    branches: ["space_war_2"]
 
 
 jobs:
