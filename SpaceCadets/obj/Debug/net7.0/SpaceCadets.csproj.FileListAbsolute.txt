@@ -1,0 +1,17 @@
+/home/egor/Рабочий стол/mySharp/OmSTU-AMCS-SummerPractice2023/SpaceCadets/bin/Debug/net7.0/SpaceCadets
+/home/egor/Рабочий стол/mySharp/OmSTU-AMCS-SummerPractice2023/SpaceCadets/bin/Debug/net7.0/SpaceCadets.deps.json
+/home/egor/Рабочий стол/mySharp/OmSTU-AMCS-SummerPractice2023/SpaceCadets/bin/Debug/net7.0/SpaceCadets.runtimeconfig.json
+/home/egor/Рабочий стол/mySharp/OmSTU-AMCS-SummerPractice2023/SpaceCadets/bin/Debug/net7.0/SpaceCadets.dll
+/home/egor/Рабочий стол/mySharp/OmSTU-AMCS-SummerPractice2023/SpaceCadets/bin/Debug/net7.0/SpaceCadets.pdb
+/home/egor/Рабочий стол/mySharp/OmSTU-AMCS-SummerPractice2023/SpaceCadets/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/egor/Рабочий стол/mySharp/OmSTU-AMCS-SummerPractice2023/SpaceCadets/obj/Debug/net7.0/SpaceCadets.csproj.AssemblyReference.cache
+/home/egor/Рабочий стол/mySharp/OmSTU-AMCS-SummerPractice2023/SpaceCadets/obj/Debug/net7.0/SpaceCadets.GeneratedMSBuildEditorConfig.editorconfig
+/home/egor/Рабочий стол/mySharp/OmSTU-AMCS-SummerPractice2023/SpaceCadets/obj/Debug/net7.0/SpaceCadets.AssemblyInfoInputs.cache
+/home/egor/Рабочий стол/mySharp/OmSTU-AMCS-SummerPractice2023/SpaceCadets/obj/Debug/net7.0/SpaceCadets.AssemblyInfo.cs
+/home/egor/Рабочий стол/mySharp/OmSTU-AMCS-SummerPractice2023/SpaceCadets/obj/Debug/net7.0/SpaceCadets.csproj.CoreCompileInputs.cache
+/home/egor/Рабочий стол/mySharp/OmSTU-AMCS-SummerPractice2023/SpaceCadets/obj/Debug/net7.0/SpaceCadets.csproj.CopyComplete
+/home/egor/Рабочий стол/mySharp/OmSTU-AMCS-SummerPractice2023/SpaceCadets/obj/Debug/net7.0/SpaceCadets.dll
+/home/egor/Рабочий стол/mySharp/OmSTU-AMCS-SummerPractice2023/SpaceCadets/obj/Debug/net7.0/refint/SpaceCadets.dll
+/home/egor/Рабочий стол/mySharp/OmSTU-AMCS-SummerPractice2023/SpaceCadets/obj/Debug/net7.0/SpaceCadets.pdb
+/home/egor/Рабочий стол/mySharp/OmSTU-AMCS-SummerPractice2023/SpaceCadets/obj/Debug/net7.0/SpaceCadets.genruntimeconfig.cache
+/home/egor/Рабочий стол/mySharp/OmSTU-AMCS-SummerPractice2023/SpaceCadets/obj/Debug/net7.0/ref/SpaceCadets.dll
